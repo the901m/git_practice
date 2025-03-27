@@ -1,1 +1,1 @@
-## this is a temporary repository for test perposes
+## this is a temporary repository for test purposes
